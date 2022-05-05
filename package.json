@@ -1,0 +1,19 @@
+{
+  "name": "adw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "debug": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "micro": "^9.3.4",
+    "nodemon": "^2.0.16",
+    "package.json": "^2.0.1"
+  }
+}
