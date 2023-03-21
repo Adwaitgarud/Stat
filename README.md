@@ -1,0 +1,2 @@
+# Stat
+Create static website
